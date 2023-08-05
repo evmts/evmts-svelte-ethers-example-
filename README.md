@@ -2,6 +2,8 @@
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
+Note YMMV on the LSP here until EVMts migrates it's LSP to volar (the same LSP svelte uses)
+
 ## Creating a project
 
 If you're seeing this, you've probably already done this step. Congrats!
